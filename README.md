@@ -9,10 +9,10 @@ Esta línea se enfoca en el desarrollo de sistemas de cultivo, fermentación, au
 ### Biorreactor educativo automatizado
 Diseño y construcción de un biorreactor modular para enseñanza y experimentación.
 
-## Prototipo proyectado
+#### Prototipo proyectado
 <img src="images/biorr.png" width="300">
 
-## Estado de avance actual real
+##### Estado de avance actual real
 
 <img src="images/asd.jpg" width="300">
 
