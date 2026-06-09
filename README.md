@@ -9,6 +9,13 @@ Esta línea se enfoca en el desarrollo de sistemas de cultivo, fermentación, au
 ### Biorreactor educativo automatizado
 Diseño y construcción de un biorreactor modular para enseñanza y experimentación.
 
+## Prototipo proyectado
+<img src="images/biorr.png" width="300">
+
+## Estado de avance actual real
+
+<img src="images/asd.jpg" width="300">
+
 ### Producción de proteínas recombinantes
 Línea proyectada para expresión y purificación de proteínas de interés biotecnológico.
 
